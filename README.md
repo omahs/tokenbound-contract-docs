@@ -14,7 +14,7 @@ Contributions are made via Issues and Pull Requests (PRs). A few general guideli
 
 - Search for existing Issues and PRs before creating your own.
 - Contributions should only fix/add the functionality in the issue OR address style issues, not both.
-- If you're run into an issue or need clarification, please give context. Explain what you're trying to do and how we can help.
+- If you run into an issue or need clarification, please give context. Explain what you're trying to do and how we can help.
 
 ### Issues
 Issues should be used to report problems, request a new feature, or discuss potential changes before a PR is created.
